@@ -1,0 +1,7 @@
+
+7 - https://www.datacamp.com/tutorial/k-means-clustering-python
+6 - https://www.datacamp.com/tutorial/random-forests-classifier-python
+5 - https://www.datacamp.com/tutorial/decision-tree-classification-python
+4 - https://www.datacamp.com/tutorial/naive-bayes-scikit-learn
+3 - https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+2 - 
